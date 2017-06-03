@@ -841,6 +841,14 @@
                  "height":16,
                  "id":58,
                  "name":"",
+                 "properties":
+                    {
+                     "emission_color":"#ff55ffff"
+                    },
+                 "propertytypes":
+                    {
+                     "emission_color":"color"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -852,6 +860,14 @@
                  "height":16,
                  "id":59,
                  "name":"",
+                 "properties":
+                    {
+                     "emission_color":"#ff0055ff"
+                    },
+                 "propertytypes":
+                    {
+                     "emission_color":"color"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -863,6 +879,14 @@
                  "height":96,
                  "id":60,
                  "name":"",
+                 "properties":
+                    {
+                     "emission_color":"#ffff5500"
+                    },
+                 "propertytypes":
+                    {
+                     "emission_color":"color"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -874,6 +898,14 @@
                  "height":96,
                  "id":61,
                  "name":"",
+                 "properties":
+                    {
+                     "emission_color":"#ffffff00"
+                    },
+                 "propertytypes":
+                    {
+                     "emission_color":"color"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -885,6 +917,14 @@
                  "height":16,
                  "id":62,
                  "name":"",
+                 "properties":
+                    {
+                     "emission_color":"#ff55ff00"
+                    },
+                 "propertytypes":
+                    {
+                     "emission_color":"color"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -896,6 +936,14 @@
                  "height":16,
                  "id":63,
                  "name":"",
+                 "properties":
+                    {
+                     "emission_color":"#ffaaff00"
+                    },
+                 "propertytypes":
+                    {
+                     "emission_color":"color"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,

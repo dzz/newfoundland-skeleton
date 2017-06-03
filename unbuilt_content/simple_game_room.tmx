@@ -188,11 +188,35 @@
   </object>
  </objectgroup>
  <objectgroup name="photon_emitters">
-  <object id="58" x="160" y="0" width="48" height="16"/>
-  <object id="59" x="304" y="0" width="48" height="16"/>
-  <object id="60" x="0" y="192" width="16" height="96"/>
-  <object id="61" x="496" y="192" width="16" height="96"/>
-  <object id="62" x="160" y="496" width="32" height="16"/>
-  <object id="63" x="320" y="496" width="32" height="16"/>
+  <object id="58" x="160" y="0" width="48" height="16">
+   <properties>
+    <property name="emission_color" type="color" value="#ff55ffff"/>
+   </properties>
+  </object>
+  <object id="59" x="304" y="0" width="48" height="16">
+   <properties>
+    <property name="emission_color" type="color" value="#ff0055ff"/>
+   </properties>
+  </object>
+  <object id="60" x="0" y="192" width="16" height="96">
+   <properties>
+    <property name="emission_color" type="color" value="#ffff5500"/>
+   </properties>
+  </object>
+  <object id="61" x="496" y="192" width="16" height="96">
+   <properties>
+    <property name="emission_color" type="color" value="#ffffff00"/>
+   </properties>
+  </object>
+  <object id="62" x="160" y="496" width="32" height="16">
+   <properties>
+    <property name="emission_color" type="color" value="#ff55ff00"/>
+   </properties>
+  </object>
+  <object id="63" x="320" y="496" width="32" height="16">
+   <properties>
+    <property name="emission_color" type="color" value="#ffaaff00"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>
