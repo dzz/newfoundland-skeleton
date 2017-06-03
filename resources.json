@@ -1,7 +1,7 @@
 {
     "packages" : {
-        "CE-placeholder-art"        : "resources/CE-placeholder-art.json",
-        "CE-camera"                 : "resources/CE-camera.json",
-        "CE-lights"                 : "resources/CE-lights.json"
+        "NL-placeholder"        : "resources/placeholder/placeholder.json",
+        "NL-camera"                 : "resources/camera.json",
+        "NL-lights"                 : "resources/lights/lights.json"
     }
 }
