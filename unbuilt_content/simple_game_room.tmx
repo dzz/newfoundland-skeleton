@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="16" tileheight="16" nextobjectid="41">
+<map version="1.0.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="16" tileheight="16" nextobjectid="42">
  <tileset firstgid="1" name="smashtiles" tilewidth="16" tileheight="16" tilecount="24" columns="4">
   <image source="../resources/placeholder/tiles/smashtiles.png" width="64" height="96"/>
  </tileset>
@@ -64,8 +64,11 @@
   <object id="20" x="208" y="496">
    <polyline points="0,0 0,-112 16,-112 16,-32 80,-32 80,-112 96,-112 96,0 0,0"/>
   </object>
+  <object id="41" x="0" y="512">
+   <polyline points="0,0 0,-512 512,-512 512,0 0,0"/>
+  </object>
  </objectgroup>
- <objectgroup name="lights">
+ <objectgroup name="lights" visible="0">
   <object id="28" type="light" x="-96" y="-16" width="208" height="208">
    <properties>
     <property name="casts_shadow" type="bool" value="true"/>
